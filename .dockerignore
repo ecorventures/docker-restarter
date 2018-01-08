@@ -1,0 +1,5 @@
+node_modules
+env.json
+app/env.json
+app/node_modules
+.*

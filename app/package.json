@@ -1,0 +1,26 @@
+{
+  "name": "autorestarter",
+  "version": "1.0.0",
+  "description": "Restarts systemd processes and allows custom deploy commands.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restarter"
+  ],
+  "author": "Corey Butler",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "localenvironment": "^1.0.2",
+    "ngn": "^0.3.31",
+    "ngn-data": "^0.1.11",
+    "ngnx-http": "0.0.20",
+    "nodemailer": "^4.4.1"
+  }
+}
