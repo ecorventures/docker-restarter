@@ -16,13 +16,14 @@
   "author": "Corey Butler",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^2.3.0",
-    "dockerode": "^2.5.3",
-    "localenvironment": "^1.0.2",
-    "musthave": "^1.0.2",
-    "ngn": "^0.3.31",
-    "ngn-data": "^0.1.11",
+    "chalk": "2.3.0",
+    "dockerode": "2.5.3",
+    "localenvironment": "1.0.2",
+    "musthave": "1.0.2",
+    "ngn": "0.3.31",
+    "ngn-data": "0.1.11",
     "ngnx-http": "0.0.20",
-    "nodemailer": "^4.4.1"
+    "nodemailer": "4.4.1",
+    "shortbus": "1.2.7"
   }
 }
