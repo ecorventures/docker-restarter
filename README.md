@@ -4,6 +4,8 @@ Automatically restart systemd processes & Docker containers in response to a web
 
 This was designed primarily for the purpose of handling webhooks from [Docker Hub](https://hub.docker.com).
 
+Available as a container at [ecor/restarter](https://hub.docker.com/r/ecor/restarter/).
+
 ## API Endpoints
 
 The following endpoints can optionally be secured with basic authentication. See the "Running" section for details.
