@@ -1,3 +1,4 @@
+const endpoint = require('./endpoint')
 const username = process.env.USERNAME
 const password = process.env.PASSWORD
 
